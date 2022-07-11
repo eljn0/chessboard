@@ -1,3 +1,3 @@
 # <p> Chessboard </p>
 
-Live Demo:
+Live Demo: https://chessboards.netlify.app/
